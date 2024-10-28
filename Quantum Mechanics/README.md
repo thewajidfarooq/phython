@@ -4,7 +4,7 @@
 The **Quantum Mechanics** folder contains a collection of Jupyter Notebooks and associated files that explore various fundamental concepts in quantum mechanics. The materials are designed for students, educators, and enthusiasts who want to deepen their understanding of quantum principles, mathematical formulations, and applications.
 
 ## Contents
-- **Infinite Square Well 1.ipynb**: 
+- **Infinite Square Well.ipynb**: 
   - An exploration of the infinite square well model, including mathematical derivations of wave functions and energy levels, along with visualizations of probability densities.
   
 - **Quantum Harmonic Oscillator.ipynb**: 
